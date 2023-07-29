@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(90, 182, 182);
+}
+
+#style img {
+    width: 180px;
+    height: 180px;
+    margin: 20px;
+    border: solid;
+    padding: 20px;
+    background-color: grey;
+}
+#stateExample {
+    background-color: burlywood;
+    color: black;
+    margin-top: 10%;
+}
+#stateExample button {
+    width: 100px;
+    height: 40px;
+    border: 2px solid black;
+    margin-bottom: 15px;
+}
